@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "jsx": "react",
+        "checkJs": true,
+        "experimentalDecorators": true,
+        "baseUrl": "source/js",
+        "module": "es6",
+        "moduleResolution": "node"
+    },
+    "exclude": [
+        "node_modules",
+        "**/node_modules/*"
+    ]
+}
